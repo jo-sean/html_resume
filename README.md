@@ -4,3 +4,6 @@
  * This is a responsive template for a variety of screen sizes.
  
  # MUST ASK PERMISSION AND GET APPROVAL BEFORE USE OF ANY CODE SHOWN.
+
+
+ URL: https://jo-sean.github.io/html_resume/
